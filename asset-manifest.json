@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Meme-Challenge/static/css/main.d326d7a0.css",
+    "main.js": "/Meme-Challenge/static/js/main.32e7f69b.js",
+    "static/js/787.8d4d3740.chunk.js": "/Meme-Challenge/static/js/787.8d4d3740.chunk.js",
+    "static/media/trollface.svg": "/Meme-Challenge/static/media/trollface.dd27b27ce6403cf8d81335fec02af919.svg",
+    "index.html": "/Meme-Challenge/index.html",
+    "main.d326d7a0.css.map": "/Meme-Challenge/static/css/main.d326d7a0.css.map",
+    "main.32e7f69b.js.map": "/Meme-Challenge/static/js/main.32e7f69b.js.map",
+    "787.8d4d3740.chunk.js.map": "/Meme-Challenge/static/js/787.8d4d3740.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d326d7a0.css",
+    "static/js/main.32e7f69b.js"
+  ]
+}
